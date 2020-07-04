@@ -1,4 +1,4 @@
-![React](https://img.shields.io/badge/React-ff00b4.svg)
+![React](https://img.shields.io/badge/React-00ffb4.svg)
 
 ### Simle version of Kanban
 
