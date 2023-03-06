@@ -32,9 +32,10 @@ h1, h2, h3, h4, h5 {
     align-items: flex-start;
     display: flex;
     flex-direction: row;
+    /*
     overflow-x: auto;
-       white-space: nowrap;
-   
+    white-space: nowrap;
+   */
 }
 
 .xSlide {
