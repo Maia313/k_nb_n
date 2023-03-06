@@ -25,7 +25,6 @@ h1, h2, h3, h4, h5 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    justify-content: center;
 }
 
 .board {
@@ -36,6 +35,7 @@ h1, h2, h3, h4, h5 {
     overflow-x: auto;
     white-space: nowrap;
    */
+   margin: 0 24px;
 }
 
 .xSlide {
