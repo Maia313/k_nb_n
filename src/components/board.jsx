@@ -3,7 +3,7 @@ import Column from '../containers/column.jsx';
 
 
 const Board = ({ columns }) => (
-    <div className="board">
+    <div className="board xSlide">
         {columns.map((columnId, index) => (
             <Column
                 id={columnId}
