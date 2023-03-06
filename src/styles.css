@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5 {
 .xSlide {
   scroll-snap-type: x mandatory;
   overflow-x: auto;
-
+}
 
 .board__column {
     border: 1px solid #00aacc;
